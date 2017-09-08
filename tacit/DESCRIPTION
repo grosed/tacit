@@ -1,0 +1,11 @@
+Package: tacit
+Type: Package
+Title: Tacit Programming in R
+Version: 0.0.0
+Date: 2017-06-12
+Author: Daniel Grose <daniel.grose@mathsbox.com>
+Maintainer: Daniel Grose <daniel.grose@mathsbox.com>
+Description: Construct functions from functions using binary, unary and composition operations.
+License: GPL
+Imports: methods
+RoxygenNote: 6.0.1
